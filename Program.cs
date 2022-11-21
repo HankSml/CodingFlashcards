@@ -1,0 +1,8 @@
+﻿
+namespace CodingFlashcards
+{
+    class Program
+    {
+
+    }
+}
